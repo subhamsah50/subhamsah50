@@ -5,7 +5,7 @@
 - 📫 How to reach me ?
 mail: subhamsah50@gmail.com
 linkedIn: https://www.linkedin.com/in/shubham-sah-08395b1bb/
-facebook/shubhamsah28
+Facebook: https://www.facebook.com/shubhamsah28
 
 <!---
 subhamsah50/subhamsah50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
